@@ -1,2 +1,2 @@
 # SistemInformasi-pergudangan
-My First Project
+Crud Sistem Informasi Pergudangan sederhana menggunakan Pure PHP
