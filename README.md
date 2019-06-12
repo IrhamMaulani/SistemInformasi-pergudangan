@@ -1,2 +1,2 @@
 # SistemInformasi-pergudangan
-Crud Sistem Informasi Pergudangan sederhana menggunakan Pure PHP
+BREAD for Goods system use PHP from Scratch and Jquery Ajax
